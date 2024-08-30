@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Distributed systems.<br><br>🌱 I’m currently learning Defi.<br><br>👯 I’m looking to collaborate on Audting Team to particiate in the auditing contests.<br><br>🤔 I’m looking for intern as blockchain engineer.<br><br>💬 Ask me about Blockchain,Linux,ZKP,Rust,Networking.<br><br>⚡ Fun fact:<br><br>Intrested in low-level things.<br>participating in auidting contests.<br>obessed with privacy.<br>keen to build permission less protocols.
+🔭 I’m currently working on Distributed systems.<br><br>🌱 I’m currently learning Core Blockchain Development.<br><br>👯 I’m looking  to particiate in the Open Source Programmes and Hackathons.<br><br>🤔 I’m looking for intern as blockchain engineer.<br><br>💬 Ask me about Blockchain,Linux,ZKP,Rust,Networking.<br><br>⚡ Fun fact:<br><br>Intrested in low-level things.<br>participating in auidting contests.<br>obessed with privacy.<br>keen to build permission less protocols.
 
 
 ## 🌐 Socials:
